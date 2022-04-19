@@ -1,0 +1,46 @@
+/*inicio de header*/
+
+head {
+    font-style: italic;
+background-color: white;
+border-style: solid;
+border-style: double;
+border-radius: 20 px;
+
+}
+body {
+    background-image: url(Multimedia/Fondo.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.mein { 
+    height: 1100px;
+}
+h1 { font-style: italic;
+    color: white;
+
+}
+    h2 {
+        color: white;
+    }
+ul li {
+    color: white;
+     list-style: none;
+    font-style: italic;
+    width: 100px;
+    margin-left: -40px
+    display: block;
+    float: left;
+    
+}
+
+    
+
+}
+footer {
+    font-style: italic;
+    color: red
+
+}
